@@ -170,7 +170,7 @@ def main():
 
         pygame.display.update()
 
-# Draw the main board on the screen and populate it with the sodoku board
+# Draw the main board on the screen and populate it with the sudoku board
 def drawBoard():
     # Draw containers and print numbers
     for x in range(9):
